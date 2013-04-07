@@ -1,4 +1,4 @@
 Java-Utils
 ==========
 
-A bunch of utilities
+A bunch of java utilities
